@@ -14,8 +14,5 @@
 ## 연락처
 - 이메일: p815000@naver.com
 
-## GitHub 통계
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
-
 ## 방문자 수
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/princess-seoyun/count.svg)
