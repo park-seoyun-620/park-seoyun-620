@@ -13,6 +13,3 @@
 
 ## 연락처
 - 이메일: p815000@naver.com
-
-## 방문자 수
-![Visitor Count](https://profile-counter.glitch.me/princess-seoyun/count.svg)
